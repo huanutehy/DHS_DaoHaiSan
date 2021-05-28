@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998349749590",
+    "project_id": "daohaisan2021",
+    "storage_bucket": "daohaisan2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998349749590:android:306d979f3d25f0b22ceaf7",
+        "android_client_info": {
+          "package_name": "com.example.dhs_daohaisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998349749590-g94cpcmlp3cqgqim6acqvimppuqmlsi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclVj_J85IgV8Tb6F6kTLojVoqsM1CTWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998349749590-g94cpcmlp3cqgqim6acqvimppuqmlsi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
